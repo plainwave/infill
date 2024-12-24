@@ -6,3 +6,5 @@ ever got pissed off by repeatable inputs?
 say goodbye to boring routine with 'infill'!
 
 executables are in bin/Release
+
+Algorithm : SHA256 Hash : 41622C6AA267562CA56F331A6A8BF37EB09664C6775518F4C9A106A31023B1D7
